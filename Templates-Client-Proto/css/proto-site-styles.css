@@ -1,0 +1,143 @@
+	html, body {
+    min-height: 100%;
+	margin-right:auto;
+			margin-left:auto;
+	}
+
+	#container{
+	width:95%;
+	margin-right:auto;
+	margin-left:auto;
+	
+	}
+	
+	#right-area {
+		width:20%;
+		float:left;
+		//background:#cdc;
+		padding-bottom:10px;
+		margin-top:1%;
+		}
+	
+	#main-area {
+		width:63%;
+		float:left;
+		//background:#dcd;
+		padding-bottom:10px;
+		margin:1%;
+		margin-top:1.8%;
+		}
+	
+	#left-area {
+		width:15%;
+		float:left;
+		//background:#ccd;
+		padding-bottom:10px;
+		margin-top:1%;
+		}
+		
+	h1 {
+		font-size:14px;
+		padding-top:10px;
+		margin:0px 10px 10px 10px;
+		}
+		
+	#header-area {
+		margin:0px;		
+		width:100%;
+		}
+	#footer-area {
+		clear: both;
+		width:100%;
+		float:left;
+		border-top: 3px solid #eef;
+		text-align:center;	
+	}
+		
+	/*menu styling */
+				
+	.nav {
+	width: 100%;
+	padding: 0 0 .5em 0;
+	color: #333;	
+	}
+	
+	.nav ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		border: none;
+		}
+		
+	.nav li {list-style-type: none;
+		border-bottom: 1px solid #646464;
+		margin: 0;
+		}
+			
+	.nav li a {
+		display: block;
+		padding: 5px 5px 5px 0.5em;
+		color: #000;
+		text-decoration: none;
+		}
+
+	html>body #nav li a {
+		width: auto;
+		}
+
+	.nav li a:hover {
+		border-left: 10px solid #646464;
+		border-right: 10px solid #646464;
+		background-color: #0b85ee;
+		color: #fff;		
+		}	
+	
+	.nav li.active a {
+		background:	#66ccff;
+		color: #996600;
+		}
+		
+	.footer-nav li{
+		list-style-type: none;
+		padding:1%;
+		display:inline;
+	}
+	.footer-nav a {
+		text-decoration:none;
+		color: #0b85ee;
+		}
+	.section-style{
+		border: 1px solid #eef;
+		margin-bottom:10px;
+		margin-top:10px;
+		//padding:5px;
+			width:100%;
+		}
+	
+	.heading-format{
+	background:#646464;
+	color:white;
+	float:left;
+	width:100%;
+	margin-top:0px ;
+	margin-bottom: 3px ;	
+	line-height:2;
+	}
+	
+	.main-heading-format{
+	background:#646464;
+	color:white;
+	float:left;
+	width:100%;
+	margin-top:0px ;
+	margin-bottom: 3px ;	
+	line-height:2;
+	text-align:center;
+	}
+	
+	.description-area{
+	float:left;
+	width:100%;
+	//background-color:yellow;
+	}
+	

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>COMP - 1950::JEMTC::Client-Site</title>	
+	<link rel="STYLESHEET" type="text/css" href="css/client-site-styles.css">	
+</head>
+<body>
+<div id="container">
+	<!--#include file="inc/banner-client.inc" -->	
+	<!--#include file="inc/left-area-client.inc" -->	
+	
+	<div id="main-area">
+			
+		<section>
+		<div class="main-heading-format"><header><p><strong> TEAM</strong></p></header></div>
+		<div class="description-area">		
+			<p>
+					<table class="table-format">
+						<tr>
+						<td><figure><img src="photo1.jpg" ><figcaption>Jordon</figcaption></figure></td>
+						<td><figure><img src="photo1.jpg" ><figcaption>Emily</figcaption></figure></td>
+						<td><figure><img src="photo1.jpg" ><figcaption>Michelle</figcaption></figure></td>
+						</tr>
+						<tr><td><figure><img src="photo1.jpg"><figcaption>Triveni</figcaption></figure></td>
+						<td><figure><img src="photo1.jpg" ><figcaption>Candace</figcaption></figure></td></tr>
+					</table>
+			</p>
+		</div> 
+		</section>
+		</div>
+		<!--#include file="inc/footer-client.inc" -->	
+	
+	</div>
+
+	
+</div>
+
+
+</body>
+</html>
