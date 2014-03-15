@@ -7,7 +7,7 @@
 </head>
 <body>
 <div id="container">
-	<!--#include file="inc/banner-client.inc" -->	
+	<!--#include file="inc/banner-proto.inc" -->	
 	<!--#include file="inc/left-area-proto.inc" -->	
 	<div id="main-area">
 			
