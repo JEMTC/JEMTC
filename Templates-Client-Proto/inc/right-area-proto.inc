@@ -30,5 +30,13 @@
 					<a href="http://www.computing.bcit.ca/">bcit: computing</a></br>
 					<a href="http://www.alistair.com/">alistair.com</a></p>
 			</section>
+			<section class="section-style">
+			<h6 class="heading-format">CONNECT WITH US</h6>
+			<a href="http://facebook.com"><img src="images/fbicon.png" alt="facebook icon" width="20" height="20"></a>&nbsp;<a href="http://twitter.com"><img src="images/twittericon.png"  alt="twitter icon" width="20" height="20"></a>&nbsp;<a href="http://youtube.com"><img src="images/youtube.png"  alt="youtube icon" width="20" height="20"></a>
+		</section>	
+		<section class="section-style">
+					<h6 class="heading-format">CONTACT</h6>	
+					<p><a href="mailto:alistaircalder@my.bcit.ca">Alistair Calder</a></p>
+		</section>
 		</aside>
 	</div>
