@@ -17,8 +17,3 @@
 	
 	</header>
 	
-	
-	
-	<form id="loc-search" method="post"> 
-				<input autocomplete="on" name="keywords" value="Richmond, BC" class="" type="text">	<INPUT type="image" src="http://students.thenet.ca/tremany/week8/images/searchicon.jpg" value="" style="background-color:#b5bfc1;color:red">				
-			</form>
