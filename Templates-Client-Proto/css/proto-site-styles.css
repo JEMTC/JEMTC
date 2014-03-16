@@ -38,10 +38,14 @@
 		}
 		
 	#header-area {
-		margin:0px;		
-		padding:0px;
 		width:100%;
 		}
+        
+	#header-area figure {
+		padding-left: 0;
+        margin-left: 0;
+		}     
+        
 	#footer-area {
 		clear: both;
 		width:100%;
