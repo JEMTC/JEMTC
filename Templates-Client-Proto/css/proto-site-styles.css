@@ -3,6 +3,10 @@
 	margin-right:auto;
 	margin-left:auto;
 	}
+    
+    body {
+        font-family: 'Lato', Arial, sans-serif;
+    }
 
 	#container{
 	width:95%;
@@ -43,12 +47,10 @@
         
 	#header-area figure {
 		padding-left: 0;
-<<<<<<< HEAD
+
         margin-left: 0;
         width: 50%;
-=======
-        	margin-left: 0;
->>>>>>> FETCH_HEAD
+        margin-left: 0;
 		}     
         
 	#footer-area {
@@ -175,4 +177,8 @@
 	width:100%;
 	//background-color:yellow;
 	}
+    
+    .description-area p {
+        padding-right: 10px;
+    }
 	

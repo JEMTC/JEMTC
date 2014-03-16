@@ -2,7 +2,8 @@
 <html>
 <head>
 	<title>COMP - 1950::JEMTC::Client-Site</title>	
-	<link rel="STYLESHEET" type="text/css" href="css/client-site-styles.css">	
+	<link rel="STYLESHEET" type="text/css" href="css/client-site-styles.css">
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,700' rel='stylesheet' type='text/css'>	
 </head>
 <body>
 <div id="container">
