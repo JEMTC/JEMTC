@@ -44,6 +44,7 @@
 	#header-area figure {
 		padding-left: 0;
         margin-left: 0;
+        width: 50%;
 		}     
         
 	#footer-area {
@@ -113,14 +114,20 @@
 		text-decoration:none;
 		color: #0b85ee;
 		}
-	.section-style{
+	.section-style {
 		border: 1px solid #eef;
 		margin-bottom:10px;
 		margin-top:10px;
 		//padding:5px;
 			width:100%;
 		}
-		
+	
+    /* Beginning of horizontal nav and search area */
+    
+    .section-style-horizontal {
+        width:50%;
+    }
+    	
 	.section-style-horizontal ul li{
 		display:inline-block;
 		margin:0;
@@ -132,11 +139,12 @@
 	.section-style-horizontal ul {
 		position:absolute;
 		top:10px;
-		right:10px;
+		right:80px;
 		margin:0;
 		padding:0;
 		}
-	
+	/* End of horizontal nav and search area */
+    
 	.heading-format{
 	background:#646464;
 	color:white;
