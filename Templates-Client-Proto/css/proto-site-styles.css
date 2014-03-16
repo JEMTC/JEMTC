@@ -43,8 +43,12 @@
         
 	#header-area figure {
 		padding-left: 0;
+<<<<<<< HEAD
         margin-left: 0;
         width: 50%;
+=======
+        	margin-left: 0;
+>>>>>>> FETCH_HEAD
 		}     
         
 	#footer-area {
