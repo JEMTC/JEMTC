@@ -1,7 +1,9 @@
 	html, body {
     min-height: 100%;
 	margin-right:auto;
-			margin-left:auto;
+			margin-left:auto; 
+			font-family: 'Lato', Arial, sans-serif;
+			
 	}
 
 	#container{
@@ -124,7 +126,8 @@
 	float:left;
 	width:100%;
 	margin-top:0px ;
-	margin-bottom: 1px ;	
+	margin-bottom:0px ;	
+	font-family: 'Lato', Arial, sans-serif;
 	}
 	.main-heading-format{
 	background:#F15a23;
@@ -144,7 +147,7 @@
 	
 	
 h2 {
-    background: #cad165;
+    background: #F15a23;
     border: 1px solid #cad165;
     color: white;
     font-size: 16px;
@@ -161,7 +164,7 @@ h2 {
 }
 
 .content-format{
-    background: none repeat scroll 0 0 #c8f8b5;
+    background: none repeat scroll 0 0 #eeeeee;
     border: 1px solid #BBBBBB;
     padding: 5px 18px;
 	margin-left:1%;
