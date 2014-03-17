@@ -78,7 +78,9 @@
 		padding: 5px 5px 5px 0.5em;
 		color: #fff;
 		text-decoration: none;
-		
+		-webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	       box-shadow: 0 8px 6px -6px black;
 		}
 
 	html>body #nav li a {
@@ -86,10 +88,11 @@
 		}
 
 	.nav li a:hover {
-		border-left: 10px solid #8e653c;
-		border-right: 10px solid #8e653c;
-		background-color: #ea9844;
-		color: #fff;	
+		//border-left: 10px solid #8e653c;
+		//border-right: 10px solid #8e653c;
+		background-color: white;
+		color: #F15a23;
+		font-weight:bold;		
 		
 		}	
 	
@@ -148,13 +151,13 @@
 h2 {
     background: #cad165;
     border: 1px solid #cad165;
-    color: #333333;
-    font-size: 12px;
+    color: white;
+    font-size: 16px;
     margin-bottom:  0 ;
     padding: 3px 18px;
 	margin-left:1%;
 	width:95%;
-	text-shadow: 0 2px 0 #FCF9EE, 0 4px 0 rgba(0, 0, 0, 0.15);
+text-shadow: 1px 1px 1px #000, 1px 1px 3px #000;
 }
 
 .content-format{
