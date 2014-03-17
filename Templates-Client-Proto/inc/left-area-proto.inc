@@ -3,7 +3,7 @@
 			<ul class="nav">				
 			<li><a href="proto-home.html">Home</a></li>
 			<li><a href="#">Course Outline</a></li>
-			<li><h5>Lectures</h5></li>
+			<li><h4>Lectures</h4></li>
 			<li><a href="proto-lecture.html">Lecture 1</a></li>
 			<li><a href="#">Lecture 2</a></li>
 			<li><a href="#">Lecture 3</a></li>
@@ -18,6 +18,5 @@
 			<li><a href="#">Homework</a></li>
 			<li><a href="jemtc.tumblr.com">Blog</a></li>
 			</ul>
-		</nav>
-		
+		</nav>	
 	</div>

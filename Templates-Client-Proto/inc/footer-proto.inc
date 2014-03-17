@@ -1,4 +1,4 @@
-<footer id="footer-area">
+    <footer>
 		<nav>
 			<ul class="footer-nav">			
 				<li><a href="proto-home.html">Home</a></li>
