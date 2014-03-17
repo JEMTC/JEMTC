@@ -3,7 +3,39 @@
 <head>
 	<title>COMP - 1950::JEMTC::Client-Site</title>	
 	<link rel="STYLESHEET" type="text/css" href="css/client-site-styles.css">
-    <link href='http://fonts.googleapis.com/css?family=Lato:300,700' rel='stylesheet' type='text/css'>	
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,700' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+        <link rel="stylesheet" href="fancybox/source/jquery.fancybox.css" type="text/css" media="screen" />
+        <script type="text/javascript" src="fancybox/source/jquery.fancybox.pack.js"></script>
+        <link rel="stylesheet" type="text/css" href="fancybox/source/helpers/jquery.fancybox-thumbs.css" />
+        <script type="text/javascript" src="fancybox/source/helpers/jquery.fancybox-thumbs.js"></script>  
+<script>
+        $(document).ready(function() {
+            /*  Thumbnail helper. Disable animations, hide close button, arrows and slide to next gallery item if clicked */
+    		$('.fancybox-thumbs').fancybox({
+    			prevEffect : 'none',
+    			nextEffect : 'none',
+
+				closeBtn  : false,
+				arrows    : false,
+				nextClick : true,
+
+    			helpers : {
+    				thumbs : {
+    					width  : 50,
+    					height : 50
+    				}
+    			}
+    		});
+        });   
+    </script> 	
+	<style>
+		figure{
+		display:inline-block;
+		margin-left:6px;
+		margin-right:6px;
+		}
+	</style>
 </head>
 <body>
 <div id="container">
@@ -13,20 +45,35 @@
 	<div id="main-area">
 			
 		<section>
-		<div class="main-heading-format"><header><p><strong> TEAM</strong></p></header></div>
 		<div class="description-area">		
-			<p>
-					<table class="table-format">
-						<tr>
-						<td><figure><img src="photo1.jpg" ><figcaption>Jordon</figcaption></figure></td>
-						<td><figure><img src="photo1.jpg" ><figcaption>Emily</figcaption></figure></td>
-						<td><figure><img src="photo1.jpg" ><figcaption>Michelle</figcaption></figure></td>
-						</tr>
-						<tr><td><figure><img src="photo1.jpg"><figcaption>Triveni</figcaption></figure></td>
-						<td><figure><img src="photo1.jpg" ><figcaption>Candace</figcaption></figure></td></tr>
-					</table>
-			</p>
-		</div> 
+						<figure>
+						<a href="images/large-J.jpg" class="fancybox-thumbs" rel="fancybox-thumbs"  title="Jordon"><img src="images/J.jpg"  alt=""/></a>
+						</figure>
+						<figure><a href="images/large-E.jpg" class="fancybox-thumbs" rel="fancybox-thumbs"  title="Emily"><img src="images/E.jpg"  alt=""/></a></figure>
+						<figure><a href="images/large-M.jpg" class="fancybox-thumbs" rel="fancybox-thumbs"  title="Emily"><img src="images/M.jpg"  alt=""/></a>	</figure>					
+						<figure><a href="images/large-T.jpg" class="fancybox-thumbs" rel="fancybox-thumbs"  title="Triveni"><img src="images/T.jpg" alt=""/></a></figure>
+						<figure><a href="images/large-C.jpg" class="fancybox-thumbs" rel="fancybox-thumbs"  title="Candace"><img src="images/C.jpg" alt=""/></a></figure>
+					<figure><a href="images/large-A.jpg" class="fancybox-thumbs" rel="fancybox-thumbs"  title="Alistar"><img src="images/A.jpg" alt=""/></a></figure>
+						<header><h2> Our Team </h2></header>
+						<section class="content-format">
+							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
+							<p>TSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
+						</section> 
+						<header><h2> Project Description </h2></header>
+						<section class="content-format">
+							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
+							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
+						</section> 
+						<header><h2> Goals</h2></header>
+						<section class="content-format">
+							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
+							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
+						</section> 
+						<header><h2> Responsibilities </h2></header>
+						<section class="content-format">
+							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
+							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
+						</section> 
 		</section>
 		</div>
 		<!--#include file="inc/footer-client.inc" -->	
