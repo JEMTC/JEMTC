@@ -18,8 +18,8 @@
 			<li><a href="#">Homework</a></li>
 			<li><a href="jemtc.tumblr.com">Blog</a></li>
 			<li><h4>Validation</h4></li>
-			<li><a href="http://validator.w3.org/check?uri=referer">Validate HTML 5</li>
-			<li><a href="http://jigsaw.w3.org/css-validator/check/referer">Validate CSS</a></li>
+			<li><a href="http://validator.w3.org/check?uri=referer">HTML 5</a></li>
+			<li><a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a></li>
 			</ul>
 		</nav>	
 	</div>
