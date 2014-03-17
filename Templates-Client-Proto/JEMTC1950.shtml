@@ -25,10 +25,12 @@
 	</div>
     
 <!--#include file="inc/right-area-proto.inc" -->	
+
+<!--#include file="inc/footer-proto.inc" -->    
     
 </div>
 
-<!--#include file="inc/footer-proto.inc" -->
+
 
 </body>
 </html>
