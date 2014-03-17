@@ -34,6 +34,9 @@
 		display:inline-block;
 		margin-left:6px;
 		margin-right:6px;
+		-webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 0 8px 6px -6px black;
 		}
 	</style>
 </head>
@@ -55,22 +58,22 @@
 						<figure><a href="images/large-C.jpg" class="fancybox-thumbs" rel="fancybox-thumbs"  title="Candace"><img src="images/C.jpg" alt=""/></a></figure>
 					<figure><a href="images/large-A.jpg" class="fancybox-thumbs" rel="fancybox-thumbs"  title="Alistar"><img src="images/A.jpg" alt=""/></a></figure>
 						<header><h2> Our Team </h2></header>
-						<section class="content-format">
+						<section class="content-format shadow">
 							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
 							<p>TSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
 						</section> 
 						<header><h2> Project Description </h2></header>
-						<section class="content-format">
+						<section class="content-format shadow">
 							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
 							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
 						</section> 
 						<header><h2> Goals</h2></header>
-						<section class="content-format">
+						<section class="content-format shadow">
 							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
 							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
 						</section> 
 						<header><h2> Responsibilities </h2></header>
-						<section class="content-format">
+						<section class="content-format shadow">
 							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
 							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
 						</section> 
