@@ -157,7 +157,13 @@ h2 {
     padding: 3px 18px;
 	margin-left:1%;
 	width:95%;
-text-shadow: 1px 1px 1px #000, 1px 1px 3px #000;
+//text-shadow: 1px 1px 1px #000, 1px 1px 3px #000;
+text-shadow:
+       3px 3px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
 }
 
 .content-format{
