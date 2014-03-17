@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>COMP - 1950::JEMTC::Proto-Site</title>		
+	<link rel="STYLESHEET" type="text/css" href="css/proto-site-styles.css">
+    
+    <style>
+    html, body {
+        min-height: 100%;
+        margin-right:auto;
+        margin-left:auto;
+    }
+    body {
+        font-family: 'Lato', Arial, sans-serif;
+        color: #666666;
+    }
+    p, h3 {
+        padding:0 10px;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+    #container {
+        width:1024px;
+        margin: 0 auto;	
+        position: relative;
+    }
+    header#page-header {
+    	width:100%;
+        margin:0;
+        margin-bottom: 10px;
+        padding:0;
+        height: 90px;
+        border-bottom: 2px solid #134aaa;
+    }
+    header figure {
+    	padding: 0;
+        margin: 0;
+        width: 50%;
+        display: block;
+    }     
+    section.section-style-horizontal {
+        width:50%;
+        float: right;
+        margin-top: -75px;
+    }
+    section.section-style-horizontal ul {
+        float: right;
+    }
+    section.section-style-horizontal ul li {
+        display: inline-block;
+    }
+    #right-area {
+    	width:15%;
+    	float:right;
+    	padding-bottom:10px;
+        background-color: #fcfcfc;
+    	}
+    #main-area {
+    	width:70%;
+    	float:left;
+    }
+    #left-area {
+    	width:15%;
+    	padding-bottom:10px;
+        background-color: #fcfcfc;
+        float: left;
+    }
+    nav ul {
+    	list-style-type: none;
+    	margin: 0;
+    	padding: 0;
+    	border: none;
+    }
+    nav li {
+        list-style-type: none;
+    	border-bottom: 1px solid #646464;
+    	margin: 0;
+        padding: 3px 0;
+    }
+    nav h4 {
+        padding-left:10px;
+        color: #134aaa;
+    }
+    nav li p {
+        padding: 5px 5px 5px 0.5em; 
+        color: #000;   
+    }
+    nav li a {
+    	padding: 5px 5px 5px 0.5em;
+    	color: #000;
+    	text-decoration: none;
+    }
+    nav li a:hover {
+        background-color: #134aaa;
+    	color: #fff;
+        border: none;		
+    }	
+    nav li:active a {
+    	background:	#66ccff;
+    	color: #996600;
+    }
+	
+    aside ul {
+    	list-style-type: none;
+    	margin: 0;
+    	padding: 0;
+    	border: none;
+    }
+    aside li {
+        list-style-type: none;
+    	border-bottom: 1px solid #646464;
+    	margin: 0;
+        padding: 3px 0;
+    }
+    aside h4 {
+        padding-left:10px;
+        color: #134aaa;
+    }
+    aside li p {
+        padding: 5px 5px 5px 0.5em; 
+        color: #000;   
+    }
+    aside li a {
+    	padding: 5px 5px 5px 0.5em;
+    	color: #000;
+    	text-decoration: none;
+    }
+    aside li a:hover {
+    	background-color: #134aaa;
+    	color: #fff;		
+    }	
+    aside li:active a {
+    	background:	#66ccff;
+    	color: #996600;
+    }
+
+    /* Blog styles */
+    section#blog {
+        float:left;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    header#blog-title h4 {
+        font-size: 2em;
+        text-transform: uppercase;
+        padding:0 10px 10px 10px;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+    .content h3 {
+        padding:0 10px;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+    .content a {
+        color: #134aaa;
+    }
+    footer.metadata  {
+		border-top: 1px solid #646464;
+    }
+    footer.metadata p {
+		font-size: 0.75em;
+		text-align: right;
+		font-style: italic;
+		
+    }
+    section.tags ul {
+        list-style-type: none;
+        font-size: 0.75em;
+        color: #666;
+        text-decoration: none;
+        list-style-type: none;
+        margin-left: -35px;
+        text-align: left;
+    }
+    section.tags a {
+        color: #134aaa;
+    }
+    section.tags ul li{
+        list-style-type: none;
+        display: inline-block;
+        text-decoration: none;
+        }
+    }
+    
+
+    /* FOOTER */
+    
+    footer#page-footer {
+    	clear: both;
+    	width:100%;
+    	float:left;
+    	border-top: 2px solid #134aaa;
+    	text-align:center;	
+        color: #134AAA;
+    }
+    footer ul {
+        margin-bottom: 20px;
+    }
+    footer ul li {
+        display: inline-block;
+        border-bottom: none;
+    }
+    footer ul li a {
+        text-decoration: none;
+    }
+    
+    </style>
+    	
+</head>
+<body>
+<div id="container">
+    <header id="page-header">	
+    	<figure><img src="http://students.thenet.ca/cnovakov/images/student_logo.jpg" alt="JEMTC Logo" ></figure>
+    	<section class="section-style-horizontal">
+    		<ul>
+    			<li>Search</li>
+    			<li>
+                    <form id="loc-search" method="post"> 
+    				    <input autocomplete="on" name="keywords" value="Richmond, BC" class="" type="text">	
+    				    <input type="image" src="images/searchicon.jpg" value="" style="background-color:#b5bfc1;color:red">				
+    			    </form>
+                </li>
+    		</ul>
+    	</section>	
+    </header>	
+	<div id="left-area">		
+		<nav>			
+			<ul class="nav">				
+			<li><a href="proto-home.html">Home</a></li>
+			<li><a href="#">Course Outline</a></li>
+			<li><h4>Lectures</h4></li>
+			<li><a href="proto-lecture.html">Lecture 1</a></li>
+			<li><a href="#">Lecture 2</a></li>
+			<li><a href="#">Lecture 3</a></li>
+			<li><a href="#">Lecture 4</a></li>
+			<li><a href="#">Lecture 5</a></li>
+			<li><a href="#">Lecture 6</a></li>
+			<li><a href="#">Lecture 7</a></li>
+			<li><a href="#">Lecture 8</a></li>
+			<li><a href="#">Lecture 9</a></li>
+			<li><a href="#">Lecture 10</a></li>
+			<br />
+			<li><a href="#">Homework</a></li>
+			<li><a href="jemtc.tumblr.com">Blog</a></li>
+			</ul>
+		</nav>	
+	</div>
+	<div id="main-area">
+        <header id="blog-title">
+            <h4>Get Wired Blog</h4>
+        </header>
+        
+        <!-- Tumblr Blog -->
+        
+		<section id="blog">
+    	{block:Posts}
+    	    <article class="content">
+    		    <h3><a href="{Permalink}">{TITLE}</a></h3>
+    	    </article>    
+                
+            {block:Text}
+			<article class="content">
+                <p>{Body}</p>
+			</article>
+			{/block:Text}		
+		
+			{block:Photo}
+            <article class="content">
+	            <h3>Photo of the day...</h3>
+                
+                {block:Caption}
+    			<figcaption>
+    				<p>{Caption}</p>
+                </figcaption>
+                {/block:Caption}
+              
+				<figure>
+					<a href="{Permalink}"><img src="{PhotoURL-500}" alt="{PhotoAlt}"/></a>
+				</figure>
+                
+            </article>
+			{/block:Photo}
+			
+           
+			<!-- Quotes -->
+	
+			{block:Quote}
+			<article class="content">
+                <h3>Quote of the day...</h3>
+				<blockquote>
+                    <p>{Quote}</p>
+                    {block:Source}
+                    <p>&#126;<cite> {Source} </cite>{/block:Source}</p>
+                </blockquote>
+            </article>
+			{/block:Quote}
+            
+            
+            <!-- Links -->
+	
+			{block:Link}
+			<article class="content">
+                <h3>Link love...</h3>
+                {block:Description}<p>{Description}</p>{/block:Description}
+				<p><a target="_blank" href="{URL}">{Name}</a></p>
+            </article>
+			{/block:Link}
+                
+                <!-- Tags -->
+                
+				<section class="tags">
+					{block:HasTags}
+					<ul>
+                        <li><img src="http://students.thenet.ca/mcurran/week8/tag.png"></li>
+					{block:Tags}
+						<li><a href="{TagURL}">{Tag}&nbsp;</a></li>
+					{/block:Tags}	
+					</ul>
+				{/block:HasTags}
+                </section>
+                
+                <!-- Metadata associated with posts -->
+	        
+				<footer class="metadata">
+					{block:Date}
+						<p>{lang:Posted TimeAgo} on {DayOfWeek}, &nbsp;{ShortMonth}&nbsp;{DayOfMonth} by {PostAuthorName}<a href="#top"><img src="http://students.thenet.ca/mcurran/week5/realtor/images/scroll-up.png"></a></p>
+                    {/block:Date}
+				</footer>
+				
+                    
+        	</article>
+            {/block:Posts}
+        
+    		<!-- Pagination -->
+		
+    		{block:Pagination}
+    		<footer class="pager">
+    			<ul>
+    				<li>{block:PreviousPage}<a href="{PreviousPage}">&#8592;Previous</a>{/block:PreviousPage}</li>
+    				<li>{block:JumpPagination length="5"}{block:CurrentPage}
+                        <span class="current_page">{PageNumber}</span>
+                    {/block:CurrentPage}
+    				{block:JumpPage}
+                        <a class="jump_page" href="{URL}">{PageNumber}</a>
+                    {/block:JumpPage}{/block:JumpPagination}</li>
+    				<li>{block:NextPage}<a href="{NextPage}">Next&#8594;</a>{/block:NextPage}</li>
+				
+			
+    			</ul>
+    		</footer>
+            {/block:Pagination}
+		
+            <!-- End of pagination footer -->
+        		
+		
+		    </section>
+		</div>
+		
+    		<!-- BLOG - End -->
+        
+
+    <div id="right-area">
+		<aside>
+			<ul class="nav">
+				<li><a href="#">Contact</a></li>
+				<li><h4>Associated Links</h4></li>	
+				<li><a href="https://my.bcit.ca/cp/home/displaylogin" target="_blank">my.bcit</a></li>
+				<li><a href="http://www.bcit.ca/" target="_blank">bcit</a></li>
+				<li><a href="http://www.bcit.ca/study/programs/cst" target="_blank">bcit: computing</a></li>
+				<li><a href="http://www.alistair.com/" target="_blank">alistair.com</a></li>
+			</ul>					
+		</aside>
+	</div>	
+
+    <footer style="clear: both; text-align: center; border-top: 2px solid #123aaa;">
+		<nav>
+			<ul class="footer-nav">			
+				<li><a href="proto-home.html">Home</a></li>
+				<li><a href="http://jemtc.tumblr.com">Blog</a></li>
+				<li><a href="contact.html">Contact</a></li>
+				<li><a href="Alumni.html">Alumni</a></li>
+			</ul> 
+		</nav>
+	</footer>
+</div>
+</body>
+</html>
