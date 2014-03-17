@@ -11,14 +11,14 @@
 		
 		<section class="section-style shadow">
 					<h6 class="heading-format">CONTACT</h6>	
-					<p><a href="mailto:alistaircalder@my.bcit.ca">Alistair Calder</a></p>
+					<a href="mailto:alistaircalder@my.bcit.ca">Alistair Calder</a>
 		</section>
 		<section class="section-style shadow">
 					<h6 class="heading-format">ASSOCIATED LINKS</h6>
-					<p><a href="http://my.bcit.ca/">my.bcit</a><br>
+					<a href="http://my.bcit.ca/">my.bcit</a><br>
 					<a href="http://www.bcit.ca/">bcit</a><br>
-					<a href="http://www.computing.bcit.ca/">bcit: computing</A>
-					<a href="http://www.alistair.com/">alistair.com</a></p>
+					<a href="http://www.computing.bcit.ca/">bcit: computing</a>
+					<a href="http://www.alistair.com/">alistair.com</a>
 		</section>
 		<section class="section-style shadow">
 			<h6 class="heading-format">CONNECT WITH US</h6>
