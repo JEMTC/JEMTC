@@ -39,7 +39,7 @@
 		margin:0px;	
 		padding:0px;	
 		width:100%;
-		border-bottom: 3px solid #F89315;
+		border-bottom: 3px solid #F15a23;
 		}
 	#footer-area {
 		clear: both;
@@ -55,7 +55,7 @@
 	width: 100%;
 	padding: 0 0 0 0;
 	color: #fff;	
-	background:#F89315;
+	background:#F15a23;
 	
 	}
 	
@@ -91,7 +91,7 @@
 		//border-left: 10px solid #8e653c;
 		//border-right: 10px solid #8e653c;
 		background-color: white;
-		color: #F89315;
+		color: #F15a23;
 		font-weight:bold;		
 		
 		}	
@@ -109,7 +109,7 @@
 	
 	.footer-nav a {
 		text-decoration:none;
-		color: #F89315;
+		color: #F15a23;
 		text-shadow: 1px 1px 1px #000, 3px 3px 6px #000;
 	}
 	
@@ -122,7 +122,7 @@
 	}
 	
 	.heading-format{
-	background:#F89315;
+	background:#F15a23;
 	color:white;
 	float:left;
 	width:100%;
@@ -131,7 +131,7 @@
 	//line-height:2;
 	}
 	.main-heading-format{
-	background:#F89315;
+	background:#F15a23;
 	color:white;
 	float:left;
 	width:100%;
