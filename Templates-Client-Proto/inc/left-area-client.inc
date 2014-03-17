@@ -1,8 +1,7 @@
 <div id="left-area">	
-		
 		<nav>			
 			<ul class="nav shadow">				
-				<li><a href="JEMTC.shtml">Home</a></li>
+				<li><a href="/">Home</a></li>
 				<li><a href="JEMTC1950.shtml" target="_blank">Proto-Site</a></li>
 				<li><a href="/">Wireframes</a></li>
 				<li><a href="/">Sitemap</a></li>
