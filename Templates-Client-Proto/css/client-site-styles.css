@@ -144,9 +144,9 @@ h2 {
     background: #cad165;
     border: 1px solid #cad165;
     color: #333333;
-    //font-size: 12px;
+    font-size: 12px;
     margin-bottom:  0 ;
-    padding: 1% 1%;
+    padding: 3px 18px;
 	margin-left:1%;
 	width:95%;
 }
