@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>COMP - 1950::JEMTC::Proto-Site</title>		
+	<link rel="STYLESHEET" type="text/css" href="css/proto-site-styles.css">
+<style>
+		figure{
+		display:inline-block;
+		margin-left:6px;
+		margin-right:6px;
+		-webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 0 8px 6px -6px black;
+		}
+	</style>	
+</head>
+<body>
+<div id="container">
+	<!--#include file="inc/banner-proto.inc" -->	
+	<!--#include file="inc/left-area-proto.inc" -->	
+	<div id="main-area">
+			
+		
+			<div class="description-area">		
+			<header><h2> Our Team </h2></header>
+						<section class="content-format shadow">
+							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
+							<p>TSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
+						</section> <header><h2> Our Team </h2></header>
+						<section class="content-format shadow">
+							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
+							<p>TSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
+						</section> <header><h2> Our Team </h2></header>
+						<section class="content-format shadow">
+							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
+							<p>TSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
+						</section> 
+		</div> 
+		
+		
+	</div>
+
+<!--#include file="inc/right-area-proto.inc" -->	
+	
+</div>
+
+<!--#include file="inc/footer-proto.inc" -->	
+
+
+</body>
+</html>
