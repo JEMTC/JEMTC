@@ -1,5 +1,5 @@
     <header>	
-    	<figure><img src="http://students.thenet.ca/cnovakov/images/student_logo.jpg" alt="JEMTC Logo" ></figure>
+    	<figure><img src="images/student_logo.jpg" alt="JEMTC Logo" ></figure>
     	<section class="section-style-horizontal">
     		<ul>
     			<li>Search</li>
