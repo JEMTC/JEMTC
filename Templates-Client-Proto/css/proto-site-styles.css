@@ -60,73 +60,79 @@ section.section-style-horizontal ul li {
     background-color: #fcfcfc;
     float: left;
 }
+
 nav ul {
-	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	border: none;
+	list-style-type: none;
 }
 nav li {
-    list-style-type: none;
-	border-bottom: 1px solid #646464;
 	margin: 0;
-    padding: 3px 0;
-}
-nav h4 {
-    padding-left:10px;
-    color: #134aaa;
-}
-nav li p {
-    padding: 5px 5px 5px 0.5em; 
-    color: #000;   
-}
-nav li a {
 	padding: 5px 5px 5px 0.5em;
-	color: #000;
-	text-decoration: none;
+	border-bottom: 1px solid #646464;
 }
-nav li a:hover {
+nav li:hover {
     background-color: #134aaa;
+}	
+nav li:nth-child(3):hover {
+    background-color: transparent;
+}	
+nav li a {
+	text-decoration: none;
+	color: #666;
+}
+nav li:hover a {
 	color: #fff;
-    border: none;		
+}
+nav li:active {
+    background-color: #134aaa;
+}
+nav li:nth-child(3):active {
+    background-color: transparent;
 }	
 nav li:active a {
-	background:	#66ccff;
-	color: #996600;
+	color: #fff;
 }
-	
+nav li h4 {
+    color: #134aaa;
+}
+
 aside ul {
-	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	border: none;
+	list-style-type: none;
 }
 aside li {
-    list-style-type: none;
-	border-bottom: 1px solid #646464;
 	margin: 0;
-    padding: 3px 0;
-}
-aside h4 {
-    padding-left:10px;
-    color: #134aaa;
-}
-aside li p {
-    padding: 5px 5px 5px 0.5em; 
-    color: #000;   
-}
-aside li a {
 	padding: 5px 5px 5px 0.5em;
-	color: #000;
-	text-decoration: none;
+	border-bottom: 1px solid #646464;
 }
-aside li a:hover {
-	background-color: #134aaa;
-	color: #fff;		
+aside li:hover {
+    background-color: #134aaa;
+}	
+aside li:nth-child(2):hover {
+    background-color: transparent;
+}	
+aside li a {
+	text-decoration: none;
+	color: #666;
+}
+aside li:hover a {
+	color: #fff;
+}
+aside li:active {
+    background-color: #134aaa;
+}
+aside li:nth-child(2):active {
+    background-color: transparent;
 }	
 aside li:active a {
-	background:	#66ccff;
-	color: #996600;
+	color: #fff;
+}
+aside li h4 {
+    color: #134aaa;
 }
 
 
