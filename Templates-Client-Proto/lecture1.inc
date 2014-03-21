@@ -119,7 +119,7 @@
 <div class="content-block">
 	<p>Each student will get personal webspace.  This may be different than in the past, as this space is exclusively yours, with your own username and password.</p>
 	<p>This is also not a continuation of your COMP1850 site (if you had one).  This site is primarily for you to house your exercises, assignments, group work and more.  Make it a site that is usable and functional.</p>
-	<h3>TheNet Setup</h3>
+	<h2>TheNet Setup</h2>
 	<ul>
 		<li>Your account name has already been created: first initial + last name. Example, John Smith would be jsmith</li>
 		<li>Passwords were randomized at account creation, so you will have to create yours</li>
