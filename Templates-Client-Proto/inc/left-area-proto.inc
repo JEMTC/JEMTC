@@ -1,10 +1,10 @@
 	<div id="left-area">		
 		<nav>			
 			<ul class="nav">				
-			<li><a href="proto-home.html">Home</a></li>
-			<li><a href="#">Course Outline</a></li>
+			<li><a href="http://teams.thenet.ca/jemtc/JEMTC1950.shtml">Home</a></li>
+			<li><a href="http://www.bcit.ca/study/courses/comp1950">Course Outline</a></li>
 			<li><h4>Lectures</h4></li>
-			<li><a href="proto-lecture.html">Lecture 1</a></li>
+			<li><a href="http://teams.thenet.ca/jemtc/lecture1.shtml">Lecture 1</a></li>
 			<li><a href="#">Lecture 2</a></li>
 			<li><a href="#">Lecture 3</a></li>
 			<li><a href="#">Lecture 4</a></li>
@@ -16,7 +16,7 @@
 			<li><a href="#">Lecture 10</a></li>
 			<br />
 			<li><a href="#">Homework</a></li>
-			<li><a href="jemtc.tumblr.com">Blog</a></li>
+			<li><a href="http://jemtc.tumblr.com/">Blog</a></li>
 			</ul>
 		</nav>	
 	</div>
