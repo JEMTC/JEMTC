@@ -65,21 +65,57 @@
 					<figure><a href="images/large-A.jpg" class="fancybox-thumbs" rel="fancybox-thumbs"  title="Alistar"><img src="images/A.jpg" alt=""/></a><figcaption>Alistair</figcaption></figure>
 						<header><h2> Our Team </h2></header>
 						<section class="content-format shadow">
-							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
-							<p>TSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
+							<p>Welcome to JEMTC. We have 5 team members: Jordan Derksen, Emily Wong, Michelle Curran, Triveni Remany, Candace Novakov, and of course you, our client. We are all students of Comp1950, tasked with re-designing the Comp1950 student page.Here’s a little more about the team members:</p>
+ 
+<p>Jordan: Enrolled at BCIT as a part time student. Jordan plans on completing the Applied Web Development program. Following the completion of the program he plans on continuing his abilities in other areas of computing and web development.</p>
+
+<p>Emily: Currently working at architecture firm as an office administrator.  Aiming to pursue a career in web development.  Possesses skills in implementing HTML, CSS, Javascript, Jquery, SQL/MySQL and has experience in using WordPress and Drupal.</p>
+
+<p>Michelle: Michelle is a part-time studies student taking courses in web design and development. During the day, she is a librarian-archivist with a strong interest in digital curation and information architecture.</p>
+
+<p>Triveni: Currently working as a software tester for both web and mobile applications.  Having tested so many websites, has a strong desire to enter into the development world due to past programming experience in Java.  If not programming, would be tumbling or going for walks with her kids.</p>
+
+<p>Candace: Candace is a full time graphic designer, looking to broaden her skills in web development. Having designed many websites in the past, she wanted to learn how to develop them first-hand. Candace is a self-proclaimed cat lover, Canucks fan and cardio addict.</p>
 						</section> 
 						<header><h2> Project Description </h2></header>
 						<section class="content-format shadow">
-			 <p>By utilizing production methods for creating successful web pages and development techniques learned throughout the COMP1950 course, our group will generate a proto-site and supporting documents to redesign the COMP1950 web site. </p>
+			 <p>Our project is to re-design the Comp1950 website to make it more user-friendly. We will create a proto-site as well as documents to support the re-design. The proto-site consists of a home page, lecture page and blog page mocked up.The mockups will give our client a sense of how the site will look. The final deliverables  include: our client site, wireframes, sitemap and rationale. Our site will be HTML 5 compliant with CSS-driven navigation and design.</p>
 						</section> 
-						<header><h2> Goals</h2></header>
+						<header><h2> Goals and Process</h2></header>
 						<section class="content-format shadow">
-						<p>One of our goals that we are aiming to achieve is to re-design the COMP 1950 website so that students and instructor will be able to access course materials easily and quickly.   We are implementing a blog page to encourage students to revisit COMP1950 website. </p>
+						<p>The Comp1950 student page needs to be re-designed in order to better meet the needs of students. The client, Alistair Calder, would like to give students better access to information on the site - notes, examples, homework and other information. Our goal is to create a clean, easy-to-navigate website, where students can easily find their weekly lecture notes, homework, latest news / announcements, interesting articles and other resources. We want to present this in a current, relevant and informed way.</p>
+
+<p>We went about this project in a very methodology-driven way. After thoroughly reviewing the brief, we collectively decided on a direction. We looked at the project through the view of the target audience - us, the students. We decided how we want to navigate the page, what information is useful to us, and what look / feel we wanted to portray. We first created a sitemap to decide what pages we wanted on the site. Then we created wireframes and mockups to decide where the pages, buttons and links go (the layout of the site). Then we started coding the pages, adding css and javascript. As a final step we tested the site for any broken links or errors; also made sure all pages were linked correctly. We each had separate tasks, but kept in mind the opinion of the group and direction of the brief. Using GitHub was very helpful - we all had access to the code and were able to make adjustments on an ongoing basis. We communicated by email and weekly meeting to complete the project. </p>
 						</section> 
 						<header><h2> Responsibilities </h2></header>
 						<section class="content-format shadow">
-							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
-							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
+							<p>Things decided / worked on as a group: overall design, font, layout, content, color scheme, testing</p>
+ 
+						<p>Individual contributions: 
+							<ul>
+								<li>Jordan: management, testing (links, gallery) organization </li>
+								<li>Emily: rationale text, lecture 1 inc page, font sourcing, intro, print stylesheet</li>
+								<li>Michelle: wireframes, helped with proto-site template (template 2) and css, blog page</li>
+								<li>Triveni: proto template 1, client template, testing</li>
+								<li>Candace: site logos, sitemap, intro page text, photo sizing</li>
+							</ul>
+</p>
+						</section> 
+						
+						<header><h2> Technical Specs </h2></header>
+						<section class="content-format shadow">
+			 <p>Applications that we used to complete this project:
+				<ul>
+					<li>GitHub</li>
+					<li>Notebook+ / Text Wrangler</li>
+					<li>Tumblr</li>
+					<li>Filezilla / FTP transfer</li>
+					<li>Photoshop</li>
+					<li>Illustrator (for sitemap)</li>
+					<li>PowerPoint (for wireframes)</li>
+					<li>Directory organization: windows explorer / finder (Mac)</li>
+				</ul>
+</p>
 						</section> 
 						 
 						
