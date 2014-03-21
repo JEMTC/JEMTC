@@ -6,7 +6,7 @@
     			<li>
                     <form id="loc-search" method="post"> 
     				    <input autocomplete="on" name="keywords" value="Richmond, BC" class="" type="text">	
-    				    <input type="image" src="http://teams.thenet.ca/jemtc/images/searchicon.jpg" value="">				
+    				    <input type="image" src="http://teams.thenet.ca/jemtc/images/searchicon.jpg" alt="search magnifier">				
     			    </form>
                 </li>
     		</ul>
