@@ -1,6 +1,6 @@
 <h2>Outline</h2>
 <div class="content-block">
-  <a href="#top" id="top" style="display:none">check</a>
+  <a href="#top" style="display:none">check</a>
 	<p>Here is the current Course Outline (by week):</p>
 	<dl class="outline">
 		<dt>Week 1</dt>
