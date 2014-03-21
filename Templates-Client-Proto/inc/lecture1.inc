@@ -1,5 +1,6 @@
 <h2>Outline</h2>
 <div class="content-block">
+  <a href="#top" id="top" style="visibility: hidden"></a>
 	<p>Here is the current Course Outline (by week):</p>
 	<dl class="outline">
 		<dt>Week 1</dt>
@@ -170,4 +171,5 @@
 		<li>One caveat: <strong>No Javascript at all</strong></li>
 		<li>There needs to be a link from the <strong>myBCIT Members</strong> page to your Student Homepage</li>
 	</ul>
+	| <a href="#top">Back To Top</a> |
 </div>
