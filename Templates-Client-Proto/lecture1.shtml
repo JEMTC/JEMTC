@@ -3,7 +3,9 @@
 <html>
 <head>
 	<title>COMP - 1950::JEMTC::Proto-Site</title>		
-	<link rel="STYLESHEET" type="text/css" href="css/proto-site-styles.css">	
+	<link rel="STYLESHEET" type="text/css" href="css/proto-site-styles.css" media="screen">	
+		<link rel="STYLESHEET" type="text/css" href="css/printstyle.css" media="print">
+	
 </head>
 <body>
 <div id="container">
