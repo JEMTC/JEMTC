@@ -2,10 +2,9 @@
 
 <html>
 <head>
-	<title>COMP - 1950::JEMTC::Proto-Site</title>		
-	<link rel="STYLESHEET" type="text/css" href="css/proto-site-styles.css" media="screen">	
-		<link rel="STYLESHEET" type="text/css" href="css/printstyle.css" media="print">
-	
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<title>COMP - 1950::JEMTC::Lecture1</title>		
+	<link rel="STYLESHEET" type="text/css" href="css/proto-site-styles.css">	
 </head>
 <body>
 <div id="container">
