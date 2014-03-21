@@ -2,6 +2,8 @@
 
 <html>
 <head>
+<meta name="description" content="BCIT's WEB 1950 - Intermediate Web Design and Development lectures for students">
+<meta name="keywords" content="BCIT,WEB,WEB DEVELOPMENT,LECTURE,MATERIALS,SEO,HTML,CSS,XML,JavaScript,JQUERY,GIT">
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<title>COMP - 1950::JEMTC::Proto-Site</title>		
 	<link rel="STYLESHEET" type="text/css" href="css/proto-site-styles.css">	
