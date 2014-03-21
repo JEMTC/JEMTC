@@ -81,6 +81,22 @@
 							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
 							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et </p>
 						</section> 
+						<header><h2> Rationale </h2></header>
+						<section class="content-format shadow">
+						<p>When it comes to creating the client site as well as the proto-site, here is a list of components that we considered for a successful website:<p>
+						<ul>
+						<li>Site layout- a simple and clean layout to generate an user-friendly page. A search bar is intended for assisting students to find information quickly and easily. </li>
+						<li>Navigation menu - initially, we wanted to have a 3-column page with vertical menus(less important stuff on the left menu) with a footer or a fixed menu on the right bottom corner with a footer.  We didn't choose the fixed menu as the implementation didn't work out;left menu overrides the fixed menu. As a result, we managed to go with the 3-column page. </li>
+						<li>INC files - we replaced weekly lecture material, navigation, footer, and banner by using SSI coding to include INC files.  Instructor would just need to upload new lecture material on a INC file with SSI coding for easy implementation and management.</li>
+						<li>Images display - we utilize FancyBox for an elegant way of displaying images</li>
+						<li>Tone - A welcoming page for students, prospective students, alumni students and the instructor</li>
+						<li>Style - We are aiming to achieve for a sleek contemporary look rather than a retro look.  As the site contains latest lectures regarding web technology which is constantly changing, a modern look would be more suitable.  </li>
+						<li>Typography - We picked contemporary fonts to resemble the look and feel of client page as well as client project page. </li>
+						<li>Relationship-Make sure the design relates to the company’s personality, values and goals. Although you may think that the design is great, if the client can’t relate to it, or if it doesn’t represent the company well, the design is unsuccessful. The site is successful in terms of relating the students/instructor to the WEB1950 class because....</li>
+				<li>Colours - For our client’s page, we choose orange, grey and white as the primary colours because orange is eye-catching,refreshing but not too intense like red.  grey and white implements with orange and tones down orange very well.  •	For the client project page, navy, white and grey are utilized as the primary colours.  Reason for that is the navy, grey and white resemble the colours being used on the BCIT’s website.  Thus, students can associate WEB1950 class with BCIT school.  </li>
+						<li>•	Symbolism-What is the meaning behind certain shapes or icons in the design? Hmm..i recognize the logo is using the same colour as BCIT logo..so students can relate to the class and the school? </li>
+						</section> 
+						<section 
 		</section>
 		</div>
 
