@@ -44,8 +44,9 @@
 	#footer-area {
 		clear: both;
 		width:100%;
-		border-top: 3px solid #eef;		
 		float:left;
+		border-top: 3px solid #eef;		
+		
 		text-align:center;
 	}
 		
