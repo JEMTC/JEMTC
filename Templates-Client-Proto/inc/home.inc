@@ -1,7 +1,7 @@
 <div class="intro">
 	<p>COMP 1950 continues fundamental principles and techniques for
-		designing and developing effective web sites. <a href="http://www.bcit.ca/study/courses/comp1950">Get more details</a>.
-	</p>
+		designing and developing effective web sites. <a href="http://www.bcit.ca/study/courses/comp1950">Get more details</a>.</p>
+	
 	<p>Check the <a href="http://www.bcit.ca/study/courses/comp1950">course
 		catalogue at BCIT</a> to see when this course is running next.
 	</p>
@@ -21,7 +21,7 @@
 <h2>about this course</h2>
 <div class="content-block">
 	<p><strong>Official</strong> details about the who, what, where and how are located in the <a href="http://www.bcit.ca/study/courses/comp1950">course info</a> section</p>
-	<p>Some more information you might like to know:
+	<p>Some more information you might like to know:</p>
 	<ul>
 		<li>More theory than in 1850</li>
 		<li>Still a fair amount of practical experience</li>
