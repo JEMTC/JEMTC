@@ -70,7 +70,6 @@
 		<dt>Navigation</dt>
 		<dd>Please try to make things as easy to find as possible</dd>
 	</dl>
-	</p>
 </div>
 <h2>Other subjects?  Tailor the course!</h2>
 <div class="content-block">
