@@ -13,7 +13,7 @@
 	
 	<div id="main-area">
 	
-	<!--#include file="home.inc"-->
+	<!--#include file="inc/home.inc"-->
 	</div>
     
 <!--#include file="inc/right-area-proto.inc" -->	
