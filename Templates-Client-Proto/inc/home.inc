@@ -16,7 +16,6 @@
 		<li>some expectations &amp; reminders</li>
 		<li>today's assignment</li>
 	</ul>
-	</p>
 </div>
 <h2>about this course</h2>
 <div class="content-block">
