@@ -58,7 +58,7 @@
 						
 						<header><h2> Rationale </h2></header>
 						<section class="content-format shadow">
-						<p>When it comes to creating the client site as well as the proto-site, here is a list of components that we considered for a successful website:<p>
+						<p>When it comes to creating the client site as well as the proto-site, here is a list of components that we considered for a successful website:</p>
 						<ul>
 						<li>Site layout- a simple and clean layout to generate an user-friendly page. A search bar is intended for assisting students to find information quickly and easily. </li>
 						<li>Navigation menu - initially, we wanted to have a 3-column page with vertical menus(less important stuff on the left menu) with a footer or a fixed menu on the right bottom corner with a footer.  We didn't choose the fixed menu as the implementation didn't work out;left menu overrides the fixed menu. As a result, we managed to go with the 3-column page. </li>
