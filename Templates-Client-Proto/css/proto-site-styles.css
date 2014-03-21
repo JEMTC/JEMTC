@@ -168,4 +168,6 @@ footer ul li {
 footer ul li a {
     text-decoration: none;
 }
-
+footer  footer nav li:nth-child(3):hover {
+        background-color: #134aaa;
+    }
