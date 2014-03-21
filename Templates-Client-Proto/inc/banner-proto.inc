@@ -1,5 +1,5 @@
     <header>	
-    	<figure><img src="images/student_logo.jpg" alt="JEMTC Logo" ></figure>
+    	<figure><img src="images/student_logo.jpg" alt="Comp1950 Student Page" ></figure>
     	<section class="section-style-horizontal">
     		<ul>
     			<li>Search</li>
