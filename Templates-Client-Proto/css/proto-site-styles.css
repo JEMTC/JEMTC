@@ -50,6 +50,7 @@ section.section-style-horizontal ul li {
 #main-area {
 	width:70%;
 	float:left;
+	padding:10px;
 }
 #main-area p {
     margin-bottom: 20px;

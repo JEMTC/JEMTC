@@ -80,11 +80,4 @@
 		<li>What skills would you like to acquire?</li>
 		<li>Are there subjects not covered here?</li>
 	</ul>
-</div>
-<h2>Let's get started!</h2>
-<div class="content-block">
-	Let's go onto <a href="week1/">week one</a>
-</div>
-<div id="footer">
-	<a href="#top">Top of Page</a> | <a href="/">Home</a>
-</div>
+</div>.

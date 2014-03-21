@@ -171,6 +171,3 @@
 		<li>There needs to be a link from the <strong>myBCIT Members</strong> page to your Student Homepage</li>
 	</ul>
 </div>
-<div id="footer">
-	<a href="#top">Top of Page</a> | <a href="/">Home</a>
-</div>
