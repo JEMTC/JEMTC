@@ -14,7 +14,6 @@
 			<li><a href="#">Lecture 8</a></li>
 			<li><a href="#">Lecture 9</a></li>
 			<li><a href="#">Lecture 10</a></li>
-			<br />
 			<li><a href="#">Homework</a></li>
 			<li><a href="http://jemtc.tumblr.com/">Blog</a></li>
 			</ul>
