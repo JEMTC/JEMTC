@@ -6,7 +6,8 @@
 <meta name="keywords" content="INTRODUCTION, SETUP,WEB SPACE, FTP, BCIT,WEB,WEB DEVELOPMENT,LECTURE,MATERIALS,SEO,HTML,CSS">
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<title>COMP - 1950::JEMTC::Lecture1</title>		
-	<link rel="STYLESHEET" type="text/css" href="css/proto-site-styles.css">	
+	<link rel="STYLESHEET" type="text/css" href="css/proto-site-styles.css" media="screen">	
+	<link rel="STYLESHEET" type="text/css" href="css/printstyle.css" meida="print">	
 </head>
 <body>
 <div id="container">
